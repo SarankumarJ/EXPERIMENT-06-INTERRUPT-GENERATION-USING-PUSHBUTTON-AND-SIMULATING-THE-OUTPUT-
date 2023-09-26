@@ -120,7 +120,7 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 }
 ```
 ## Output screen shots of proteus  :
-### LED OF
+### LED OFF
 
 ![pmcex06 op1](https://github.com/SarankumarJ/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/94778101/c3df7284-854e-4a4d-a9e9-8a88bd90d9cd)
 
